@@ -8,8 +8,7 @@
 
 ユーザーは、admobによって提供される広告に関する情報収集について、以下のGoogleのプライバシーポリシーを確認することができます。
 
-・Googleのプライバシーポリシー  
-https://policies.google.com/privacy?hl=ja  
+[Googleのプライバシーポリシー](https://policies.google.com/privacy?hl=ja)
 <br />
 <br />
 本プライバシーポリシーに関するお問い合わせは、以下の連絡先までご連絡ください。
